@@ -1,0 +1,18 @@
+ignore_files:
+  - .gitignore
+  - src/controllers/admin_controller.py
+  - src/models/abstract_model.py
+  - src/models/history_model.py
+  - src/models/user_model.py
+  - tests/test_db.py
+  - tests/conftest.py
+  - tests/models/test_language_model.py
+  - tests/models/history/conftest.py
+  - tests/models/history/mocks.py
+  - tests/models/history/test_to_test_history_model.py
+  - tests/controllers/conftest.py
+  - tests/controllers/test_history_controller.py
+  - tests/controllers/test_translate_controller.py
+  - tests/controllers/admin/conftest.py
+  - tests/controllers/admin/mocks.py
+  - tests/controllers/admin/test_to_test_admin_controller.py
