@@ -1,17 +1,6 @@
 # Boas-vindas ao repositório do Traduzo
 
-Atente-se a cada passo descrito a seguir pois eles lhe ajudarão a realizar o projeto! #vqv 🚀
-
 ![Tela](src/views/static/images/traduzo.png)
-
-A partir deste repositório você encontra os detalhes de como estruturar o desenvolvimento do seu projeto.
-
-<details>
-<summary>📃 Termos e acordos</summary>
-
-- Ao iniciar este projeto, você concorda com as diretrizes do [Código de Conduta e do Manual da Pessoa Estudante da Trybe](https://app.betrybe.com/learn/student-manual/codigo-de-conduta-da-pessoa-estudante).
-
-</details>
 
 ----
 
